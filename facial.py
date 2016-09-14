@@ -1,7 +1,7 @@
 #!/usr/env python 
 import numpy as np
 import cv2
- 
+#nuevo comentario 
 face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_alt.xml')
 cap = cv2.VideoCapture(0)
  
