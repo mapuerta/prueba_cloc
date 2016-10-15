@@ -22,3 +22,4 @@ while(True):
 cap.release()
 cv2-destroyAllWindows()
 print "para hacer commt"
+print "para hacer commt"
