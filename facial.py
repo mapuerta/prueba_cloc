@@ -24,3 +24,4 @@ cv2-destroyAllWindows()
 print 'new line'
 print 'new line'
 print 'new line'
+print 'new line'
